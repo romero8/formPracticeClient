@@ -1,0 +1,13 @@
+.createContainer{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.formContainer{
+    display: flex;
+    flex-direction: column;
+    padding: 5px;
+    margin: 5px;
+    gap: 5px;
+    background-color: aqua;
+}
